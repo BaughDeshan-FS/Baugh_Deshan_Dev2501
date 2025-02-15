@@ -22,13 +22,13 @@ class App extends Component {
               liText3="Trending Stories"
             />
           </div>
-          <div style={styles.main}>
+          <main style={styles.main}>
             <Form pText="What was your dream?" />
             <PostCard
               pAuthor="Deshan"
               pText="I dreamt I was merely half my current height and had to carry an evil ring to a volcano. I woke up after getting stabbed by a cave troll...I never made it to the volcano."
             />
-          </div>
+          </main>
           <aside style={styles.ads}>
             <AdCards Text="Bunch of crap you dont need!" imageInsert={image1} />
             <AdCards

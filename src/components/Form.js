@@ -1,6 +1,6 @@
 import React from "react";
-import ButtonStandard from "../buttons/ButtonStandard";
-import Icon from "../buttons/Icons";
+import ButtonStandard from "./buttons/ButtonStandard";
+import Icon from "./buttons/Icons";
 import ImageUrl from "../images/ava2.png";
 
 const Form = (props) => {

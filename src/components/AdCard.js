@@ -1,5 +1,5 @@
 import React from "react";
-import ButtonStandard from "../buttons/ButtonStandard";
+import ButtonStandard from "./buttons/ButtonStandard";
 
 const AdCards = (props) => {
   return (

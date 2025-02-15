@@ -1,10 +1,10 @@
 import React from "react";
-import Icon from "../buttons/Icons";
+import Icon from "./buttons/Icons";
 import ImageUrl from "../images/ava2.png";
 import LogoImg from "../images/crescent-moon-logo.png";
-import Logo from "../buttons/Logo";
-
+import Logo from "./buttons/Logo";
 import { FaSearch, FaBell, FaEnvelope } from "react-icons/fa";
+
 const Header = (props) => {
   return (
     <header style={styles.Header}>

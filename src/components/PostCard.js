@@ -1,5 +1,5 @@
 import React from "react";
-import Icon from "../buttons/Icons";
+import Icon from "./buttons/Icons";
 import ImageUrl from "../images/ava2.png";
 import { VscClose } from "react-icons/vsc";
 
